@@ -1,4 +1,3 @@
-```markdown
 # N-Body Gravitational Simulation
 
 A real-time 2D N-body gravitational simulation rendered directly in the terminal.
