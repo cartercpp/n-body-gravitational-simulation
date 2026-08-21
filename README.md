@@ -65,4 +65,3 @@ The simulation starts immediately. Press any key to exit.
 - Rendering uses ANSI escape sequences (`\033[...`) and works in most modern terminals.
 - The grid is cleared and redrawn every frame (~30 ms).
 - Bodies that leave the visible area are simply not drawn until they re-enter.
-```
